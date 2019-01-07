@@ -10,5 +10,5 @@ The following are the points discussed in the model:
 - ACF & PACF (p & q values) 
 - Evaluation of Time series model ( RSS score)
 - Predicting and Visualization of outcomes or forecast values.
-![stack Overflow](http://lmsotfy.com/so.png)
+![Airlines](https://ibb.co/rxDN0M5)
 
